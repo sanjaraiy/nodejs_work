@@ -1,0 +1,11 @@
+{
+  "name": "node-module",
+  "version": "1.0.1",
+  "description": "This is essential create package json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanjay Rai",
+  "license": "ISC"
+}
